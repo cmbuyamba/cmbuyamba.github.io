@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wap.iml" afterDir="false" />
+    <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="ABout me page completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/aboutme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/recipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/recipe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pie.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,10 +33,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="104" column="34" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+            <state relative-caret-position="100">
+              <caret line="82" column="48" selection-start-line="82" selection-start-column="48" selection-end-line="82" selection-end-column="48" />
               <folding>
-                <element signature="e#3939#3945#0" expanded="true" />
+                <element signature="e#4829#4835#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/recipe.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="243">
+              <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -55,14 +54,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aboutme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="27" column="113" selection-start-line="27" selection-start-column="113" selection-end-line="27" selection-end-column="113" />
+            <state relative-caret-position="328">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/aboutme.css">
+        <entry file="file://$PROJECT_DIR$/css/styleme.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="5" selection-start-column="5" selection-end-column="5" />
@@ -87,6 +86,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Celestin Mbuyamba &lt;celembuyamba@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -94,9 +98,10 @@
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/aboutme.html" />
-        <option value="$PROJECT_DIR$/css/recipe.css" />
         <option value="$PROJECT_DIR$/css/aboutme.css" />
+        <option value="$PROJECT_DIR$/css/recipe.css" />
+        <option value="$PROJECT_DIR$/css/styleme.css" />
+        <option value="$PROJECT_DIR$/aboutme.html" />
         <option value="$PROJECT_DIR$/pie.html" />
       </list>
     </option>
@@ -171,7 +176,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554153824893</updated>
-      <workItem from="1554153840797" duration="22667000" />
+      <workItem from="1554153840797" duration="25065000" />
     </task>
     <task id="LOCAL-00001" summary="Adding image profile">
       <created>1554154657670</created>
@@ -292,11 +297,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554257480160</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Grandma's Lemon Meringue Pie html and css">
+      <created>1554257761082</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554257761082</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22667000" />
+    <option name="totallyTimeSpent" value="25065000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,14 +329,14 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49848714" weight="0.33224222" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5030257" side_tool="true" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4969743" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" sideWeight="0.4969743" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -356,32 +368,15 @@
     <MESSAGE value="Final project / last corrections&#10;Correcting images locations using root relative" />
     <MESSAGE value="Adding about me page" />
     <MESSAGE value="Grandma's Lemon Meringue Pie html and css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grandma's Lemon Meringue Pie html and css" />
+    <MESSAGE value="ABout me page completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABout me page completed" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/silverware.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="27" column="113" selection-start-line="27" selection-start-column="113" selection-end-line="27" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/recipe.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/aboutme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -390,12 +385,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/recipe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styleme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styleme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="104" column="34" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+        <state relative-caret-position="100">
+          <caret line="82" column="48" selection-start-line="82" selection-start-column="48" selection-end-line="82" selection-end-column="48" />
           <folding>
-            <element signature="e#3939#3945#0" expanded="true" />
+            <element signature="e#4829#4835#0" expanded="true" />
           </folding>
         </state>
       </provider>
