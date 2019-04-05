@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("background.png");
+    background-repeat: repeat;
+    font: 8pt Verdana, Tahoma, sans-serif;
+}
+
+#banner {
+    background-image: url("bannerbg.png");
+    height: 50px;
+}
+
+#banner img {
+    display: block;
+    margin: auto;
+}
+
+#heading h1 {
+    font: 24pt bold Tahoma, Verdana, sans-serif;
+    text-shadow: #999999 3px 3px;
+    text-align: center;
+}
+
+#content {
+    width: 800px;
+    margin: auto;
+    border-radius: 20px;
+    border: gray solid 4px;
+}
+
+#overview {
+    float: right;
+    border: 1px dashed black;
+}
+
+#footer {
+    float: right;
+}

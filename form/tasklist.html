@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task list</title>
+    <link href="tasklist.css" rel="stylesheet">
+</head>
+<body>
+<form action="#">
+    <div id="container">
+        <div id="title">Task list</div>
+        <div id="data">
+            <div>
+                <label for="task">Task</label>
+                <input id="task" name="task" size="50" type="text"/>
+            </div>
+            <div>
+                <label for="duDate">Category</label>
+                <input id="duDate" name="duDate" type="date"/>
+            </div>
+            <div>
+                <label for="category">Category</label>
+                <select id="category" name="category">
+                    <option value=""></option>
+                    <option value="1">Work</option>
+                    <option value="2">Personal</option>
+                </select>
+            </div>
+            <div>
+                <input id="submit" name="save" type="submit" value="Save task"/>
+                <input id="submit" name="reset" type="reset" value="Reset task"/>
+            </div>
+            <div>
+                <table>
+                    <tr>
+                        <th>Name</th>
+                        <th>Due</th>
+                        <th>Category</th>
+                    </tr>
+                    <tr>
+                        <td>Return library books</td>
+                        <td>2013-10-14</td>
+                        <td>Personal</td>
+                    </tr>
+                    <tr>
+                        <td>Perform project demo to stakeholders</td>
+                        <td>2013-10-14</td>
+                        <td>Work</td>
+                    </tr>
+                    <tr>
+                        <td>Meet friends for dinner</td>
+                        <td>2013-10-14</td>
+                        <td>Personal</td>
+                    </tr>
+                </table>
+            </div>
+            <div>
+                <input id="addTask" name="addTask" type="submit" value="Add task"/>
+            </div>
+        </div>
+        <div id="footer">You have 3 tasks</div>
+    </div>
+</form>
+</body>
+</html>

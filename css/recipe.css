@@ -43,3 +43,7 @@ blockquote{
 ul{
     list-style-image: url("../images/pie_icon.gif");
 }
+
+#footer {
+    float: left;
+}

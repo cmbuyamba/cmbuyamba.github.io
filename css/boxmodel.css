@@ -1,0 +1,16 @@
+div {
+    width: 300px;
+    height: 100px;
+
+    background: yellow;
+    border-radius: 12px 50px 40px;
+}
+
+.border-box {
+    box-sizing: border-box;
+    border: 8px solid red;
+}
+
+.content-box {
+    box-sizing: content-box;
+}
