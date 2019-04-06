@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="Forms task list">
-      <change afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/tasklist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/tasklist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/floats.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/bannerbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/critic.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/fresh.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/movie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/overview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/rbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/rotten.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/rottenbig.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/tmnt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/tmnt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/w3c-css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/w3c-html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmnt/w3c-xhtml.png" afterDir="false" />
+    <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="Lab 5 JS">
+      <change afterPath="$PROJECT_DIR$/lab5-js/celestin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5-js/happy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5-js/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5-js/jslab5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5-js/sad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5-js/swap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/jslab5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/recipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/recipe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pie.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,25 +39,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tmnt/tmnt.html">
+        <entry file="file://$PROJECT_DIR$/form/tasklist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="71">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/css/movie.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/tmnt.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab5/javascript.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab5-js/javascript.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab5-js/swap.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/form/tasklist.html">
+        <entry file="file://$PROJECT_DIR$/lab5/jslab5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            <state relative-caret-position="71">
+              <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab5-js/jslab5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -85,28 +116,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmnt/movie.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/floats.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -116,8 +129,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -158,6 +172,14 @@
         <option value="$PROJECT_DIR$/tmnt/movie.css" />
         <option value="$PROJECT_DIR$/form/tasklist.css" />
         <option value="$PROJECT_DIR$/form/tasklist.html" />
+        <option value="$PROJECT_DIR$/lab3/css/movie.css" />
+        <option value="$PROJECT_DIR$/lab3/tmnt.html" />
+        <option value="$PROJECT_DIR$/lab5/swap.html" />
+        <option value="$PROJECT_DIR$/lab5-js/jslab5.js" />
+        <option value="$PROJECT_DIR$/lab5/javascript.html" />
+        <option value="$PROJECT_DIR$/lab5-js/javascript.html" />
+        <option value="$PROJECT_DIR$/lab5-js/swap.html" />
+        <option value="$PROJECT_DIR$/lab5/jslab5.js" />
       </list>
     </option>
   </component>
@@ -190,7 +212,7 @@
             <path>
               <item name="wap" type="b2602c69:ProjectViewProjectNode" />
               <item name="wap" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,21 +225,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/tmnt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\images\tmnt" />
-      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\lab3" />
-      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\tmnt" />
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\tmnt\resources\images" />
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\tmnt\resources" />
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\tmnt\resources\css" />
+      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap" />
+      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\lab5" />
+      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\lab3" />
+      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\images\tmnt" />
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\images" />
     </key>
   </component>
@@ -244,7 +268,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554153824893</updated>
       <workItem from="1554153840797" duration="58074000" />
-      <workItem from="1554425300102" duration="7317000" />
+      <workItem from="1554425300102" duration="31366000" />
     </task>
     <task id="LOCAL-00001" summary="Adding image profile">
       <created>1554154657670</created>
@@ -386,11 +410,32 @@
       <option name="project" value="LOCAL" />
       <updated>1554264459642</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Forms task list">
+      <created>1554474751730</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554474751730</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Forms task list">
+      <created>1554479698585</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1554479698585</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Lab 3">
+      <created>1554480480170</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1554480480170</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65391000" />
+    <option name="totallyTimeSpent" value="89440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,10 +467,10 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.33224222" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50378215" side_tool="true" visible="true" weight="0.57119477" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.49621785" visible="true" weight="0.57119477" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045386" side_tool="true" visible="true" weight="0.57119477" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.49546143" visible="true" weight="0.57119477" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,7 +499,9 @@
     <MESSAGE value="ABout me page completed" />
     <MESSAGE value="About me page completed" />
     <MESSAGE value="Forms task list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forms task list" />
+    <MESSAGE value="Lab 3" />
+    <MESSAGE value="Lab 5 JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 5 JS" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -586,10 +633,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tmnt/movie.css">
+    <entry file="file://$PROJECT_DIR$/form/tasklist.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="95">
+          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -600,17 +647,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form/tasklist.css">
+    <entry file="file://$PROJECT_DIR$/tmnt/movie.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/form/tasklist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="71">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/css/movie.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/tmnt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/happy.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/celestin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/swap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5-js/jslab5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5-js/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5-js/swap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/jslab5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
         </state>
       </provider>
     </entry>
