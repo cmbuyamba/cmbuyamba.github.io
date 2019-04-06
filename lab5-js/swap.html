@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swap</title>
+    <script>
+        function swap() {
+            var img = document.getElementById('img');
+            console.log(img);
+            var img1 = "sad.jpg";
+            var img2 = "happy.jpg";
+            if (img.src.indexOf(img1) > -1) {
+                console.log('>> 1:' + img.src);
+                img.src = img2;
+            } else if (img.src.indexOf(img2) > -1) {
+                console.log('>> 2:' + img.src);
+                img.src = img1;
+            }
+
+        }
+    </script>
+</head>
+<body>
+<img alt="No image" id="img" src="happy.jpg">
+<br/>
+<input onclick="swap();" type="button" value="Swap"/>
+</body>
+</html>
