@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="Lab 5 JS">
-      <change afterPath="$PROJECT_DIR$/lab5-js/celestin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5-js/happy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5-js/javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5-js/jslab5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5-js/sad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5-js/swap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -99,7 +92,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab5-js/jslab5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
+            <state relative-caret-position="240">
               <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
             </state>
           </provider>
@@ -274,7 +267,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554153824893</updated>
       <workItem from="1554153840797" duration="58074000" />
-      <workItem from="1554425300102" duration="32708000" />
+      <workItem from="1554425300102" duration="32830000" />
     </task>
     <task id="LOCAL-00001" summary="Adding image profile">
       <created>1554154657670</created>
@@ -444,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554563782403</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Lab 5 JS">
+      <created>1554570418044</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1554570418044</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90782000" />
+    <option name="totallyTimeSpent" value="90904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,8 +480,8 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.33224222" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045386" side_tool="true" visible="true" weight="0.44026187" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.49546143" visible="true" weight="0.44026187" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.505295" side_tool="true" visible="true" weight="0.44026187" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.494705" visible="true" weight="0.44026187" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -727,7 +727,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab5-js/jslab5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
+        <state relative-caret-position="240">
           <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
         </state>
       </provider>
