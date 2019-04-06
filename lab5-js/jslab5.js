@@ -91,8 +91,6 @@ function jsfiddle(a) {
 }
 
 function myFunctionTest(expectedValue, result) {
-
-    //let test =
     if (Array.isArray(expectedValue) && Array.isArray(result())) {
         if (expectedValue.length === result().length) {
             for (let i = 0; i < expectedValue.length; i++) {
