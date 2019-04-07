@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        window.onload = function () {
+            let timer = null;
+            document.getElementById("clickbtn").onclick = function () {
+                if (timer == null) {
+                    timer = setInterval(function () {
+                        document.getElementById("output").innerHTML += " Rubby!";
+                    }, 1000);
+                } else {
+                    clearInterval(timer);
+                    timer = null;
+                }
+            }
+
+        };
+    </script>
+</head>
+<body>
+<button id="clickbtn">Click me!</button>
+<span id="output"></span>
+</body>
+</html>

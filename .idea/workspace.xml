@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="">
+    <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="Lab 6">
+      <change afterPath="$PROJECT_DIR$/lab6/decorated.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/decoratemytext.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/decoratemytext.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/decoratemytext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5-js/jslab5.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab5-js/jslab5.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,29 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/form/tasklist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/css/movie.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/tmnt.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="223" selection-start-line="223" selection-end-line="223" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab5/javascript.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab5-js/jslab5.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -100,19 +81,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/form/tasklist.css">
+        <entry file="file://$PROJECT_DIR$/lab6/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+            <state relative-caret-position="238">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tmnt/movie.css">
+        <entry file="file://$PROJECT_DIR$/lab6/decoratemytext.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="89">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="n#style#0;n#textarea#0;n#fieldset#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab6/decoratemytext.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab6/decoratemytext.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -122,8 +124,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -173,6 +175,10 @@
         <option value="$PROJECT_DIR$/lab5/jslab5.js" />
         <option value="$PROJECT_DIR$/lab5/javascript.html" />
         <option value="$PROJECT_DIR$/lab5-js/jslab5.js" />
+        <option value="$PROJECT_DIR$/lab6/test.html" />
+        <option value="$PROJECT_DIR$/lab6/decoratemytext.css" />
+        <option value="$PROJECT_DIR$/lab6/decoratemytext.html" />
+        <option value="$PROJECT_DIR$/lab6/decoratemytext.js" />
       </list>
     </option>
   </component>
@@ -211,7 +217,7 @@
             <path>
               <item name="wap" type="b2602c69:ProjectViewProjectNode" />
               <item name="wap" type="462c0819:PsiDirectoryNode" />
-              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="lab6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +231,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab6" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
@@ -238,11 +244,11 @@
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\lab6" />
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap" />
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\lab5" />
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\lab3" />
       <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\images\tmnt" />
-      <recent name="C:\Users\celem\IdeaProjects\cmbuyamba.github.io\mum\wap\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,7 +274,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554153824893</updated>
       <workItem from="1554153840797" duration="58074000" />
-      <workItem from="1554425300102" duration="32850000" />
+      <workItem from="1554425300102" duration="41659000" />
     </task>
     <task id="LOCAL-00001" summary="Adding image profile">
       <created>1554154657670</created>
@@ -452,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554570540195</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Lab 5 JS">
+      <created>1554570563624</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1554570563624</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90924000" />
+    <option name="totallyTimeSpent" value="99733000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,8 +501,8 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.33224222" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.505295" side_tool="true" visible="true" weight="0.44026187" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.494705" visible="true" weight="0.44026187" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.505295" side_tool="true" visible="true" weight="0.4811784" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.494705" visible="true" weight="0.4811784" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -522,7 +535,8 @@
     <MESSAGE value="Forms task list" />
     <MESSAGE value="Lab 3" />
     <MESSAGE value="Lab 5 JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 5 JS" />
+    <MESSAGE value="Lab 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 6" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -532,30 +546,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/silverware.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styleme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/boxmodel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab3/dist/js/npm.js" />
     <entry file="file://$PROJECT_DIR$/lab3/body.html" />
     <entry file="file://$PROJECT_DIR$/lab3/border.shtml" />
@@ -737,6 +727,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="92" column="48" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/decorated.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/decoratemytext.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/decoratemytext.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#fieldset#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/decoratemytext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
         </state>
       </provider>
     </entry>
