@@ -21,7 +21,8 @@ window.onload = function () {
 
     start.onclick = function () {
         i = 0;
-        if (animation.value) {
+        //alert(animation.value)
+        if (animation.value !== 'Blank') {
             text = ANIMATIONS[animation.value].split('=====\n');
             if (t == null) {
                 t = timer();
@@ -30,6 +31,8 @@ window.onload = function () {
             stop.disabled = false;
             animation.disabled = true;
             fontsize.disabled = true;
+        } else {
+            alert('Please select some animation!')
         }
     }
 
