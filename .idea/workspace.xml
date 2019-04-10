@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="Lab 7">
-      <change afterPath="$PROJECT_DIR$/lab7-js/test.html" afterDir="false" />
+    <list default="true" id="0bd7208a-d60b-4729-90b4-68df2e7e2a14" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form/tasklist.html" beforeDir="false" afterPath="$PROJECT_DIR$/form/tasklist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/decoratemytext.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/decoratemytext.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/decoratemytext.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/decoratemytext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/ascii.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/ascii.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7/ascii.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/ascii.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,20 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab7/ascii.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <state relative-caret-position="120">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab7/ascii.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="67" column="48" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
+            <state relative-caret-position="180">
+              <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -96,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab7/ascii.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -114,8 +109,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab7/animation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="204">
+              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,6 +143,7 @@
       <find>cake</find>
       <find>Oven</find>
       <find>fixed</find>
+      <find>article</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,10 +190,10 @@
         <option value="$PROJECT_DIR$/lab6/test.html" />
         <option value="$PROJECT_DIR$/lab7-js/test.html" />
         <option value="$PROJECT_DIR$/lab7/animation.js" />
-        <option value="$PROJECT_DIR$/lab7/ascii.css" />
         <option value="$PROJECT_DIR$/lab6/decoratemytext.js" />
-        <option value="$PROJECT_DIR$/lab7/ascii.js" />
         <option value="$PROJECT_DIR$/lab7/ascii.html" />
+        <option value="$PROJECT_DIR$/lab7/ascii.css" />
+        <option value="$PROJECT_DIR$/lab7/ascii.js" />
       </list>
     </option>
   </component>
@@ -240,6 +239,11 @@
               <item name="wap" type="462c0819:PsiDirectoryNode" />
               <item name="lab3" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wap" type="462c0819:PsiDirectoryNode" />
+              <item name="lab7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,7 +302,7 @@
       <workItem from="1554153840797" duration="58074000" />
       <workItem from="1554425300102" duration="59077000" />
       <workItem from="1554828050747" duration="9114000" />
-      <workItem from="1554858495478" duration="20000" />
+      <workItem from="1554858495478" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="Adding image profile">
       <created>1554154657670</created>
@@ -496,11 +500,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554671377845</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Lab 7 : add https">
+      <created>1554858575689</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1554858575689</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Lab 7 : remove article css">
+      <created>1554858740436</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1554858740436</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126285000" />
+    <option name="totallyTimeSpent" value="126615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,8 +550,8 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.33224222" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5060514" side_tool="true" visible="true" weight="0.1816694" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49394855" visible="true" weight="0.1816694" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50680786" side_tool="true" visible="true" weight="0.35515547" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49319214" visible="true" weight="0.35515547" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -568,7 +586,9 @@
     <MESSAGE value="Lab 5 JS" />
     <MESSAGE value="Lab 6" />
     <MESSAGE value="Lab 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 7" />
+    <MESSAGE value="Lab 7 : add https" />
+    <MESSAGE value="Lab 7 : remove article css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 7 : remove article css" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -758,24 +778,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab7/ascii.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab3/css/movie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2703">
           <caret line="159" selection-start-line="159" selection-end-line="159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab7/animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -786,17 +792,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab7/ascii.js">
+    <entry file="file://$PROJECT_DIR$/lab7/ascii.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="67" column="48" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
+        <state relative-caret-position="120">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab7/ascii.html">
+    <entry file="file://$PROJECT_DIR$/lab7/ascii.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/ascii.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
         </state>
       </provider>
     </entry>

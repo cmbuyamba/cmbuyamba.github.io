@@ -22,7 +22,7 @@ window.onload = function () {
     start.onclick = function () {
         i = 0;
         if (animation.value) {
-            text = ANIMATIONS[animation.value].split('=====');
+            text = ANIMATIONS[animation.value].split('=====\n');
             if (t == null) {
                 t = timer();
             }
