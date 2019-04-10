@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function sum(x, y, ...more) {
+//"more" is array of all extra passed params
+            let total = x + y;
+            if (more.length > 0) {
+                for (let i = 0; i < more.length; i++) {
+                    total += more[i];
+                }
+            }
+            console.log("Total: " + total);
+            return total;
+        }
+
+        sum(5, 5, 5);
+        sum(6, 6, 6, 6, 6);
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

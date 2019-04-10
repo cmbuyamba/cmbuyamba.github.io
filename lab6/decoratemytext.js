@@ -1,6 +1,16 @@
 window.onload = function () {
+    // "use strict";
+
     let textarea = document.getElementById("textarea");
     let checkbox = document.getElementById("checkbox");
+    let btn = document.getElementById("btn");
+    let btn2 = document.getElementById("btn2");
+    let btn3 = document.getElementById("btn3");
+
+    //let x;
+
+    //alert(x);
+
     btn.onclick = function () {
         setInterval(function () {
             let size = parseInt(textarea.style.fontSize);
@@ -23,23 +33,26 @@ window.onload = function () {
         }
     };
 
+    //Pig Latin
     btn2.onclick = function () {
-        //let value = textarea.value;
+//        let value = textarea.value;
 
     };
 
+    //Malkovitch
     btn3.onclick = function () {
         let value = textarea.value;
         let array = value.split(' ');
 
-        array.map(function (elem) {
+        array.map(function (elem, index) {
             if (elem.length >= 5) {
-                return 'Malkovich';
+                elem = 'Malkovich';
+                array[index] = elem;
             }
         });
 
-        textarea.value = array.reduce(function (acc, elem) {
-            return acc + ' ' + elem;
-        });
+        console.log(array);
+
+        textarea.value = array.join(' ');
     }
 };
