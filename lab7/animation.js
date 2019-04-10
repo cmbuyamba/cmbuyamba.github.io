@@ -12,14 +12,15 @@
 //
 // YOU SHOULD NOT EDIT THIS FILE IN ANY WAY.
 // TO ADD YOUR CUSTOM ANIMATION, CREATE YOUR OWN FILE myanimation.js AND
-// PUT YOUR CODE IN THERE.  In myanimation.js, it is legal for you to modify
+// PUT YOUR CODE IN THERE.  In my animation.js, it is legal for you to modify
 // the variables that have been declared in this file.
 
 var BLANK = "";
 
 var CUSTOM = "";   // you could change the value of this variable in your code
 
-var EXERCISE = "  o\n" +
+var EXERCISE =
+    "  o\n" +
     " /#\\\n" +
     " _|_\n" +
     "=====\n" +

@@ -25,6 +25,7 @@ window.onload = function () {
         if (animation.value !== 'Blank') {
             text = ANIMATIONS[animation.value].split('=====\n');
             if (t == null) {
+                getSpeed();
                 t = timer();
             }
             start.disabled = true;
@@ -34,7 +35,7 @@ window.onload = function () {
         } else {
             alert('Please select some animation!')
         }
-    }
+    };
 
     stop.onclick = function () {
         if (t != null) {
@@ -45,25 +46,31 @@ window.onload = function () {
         stop.disabled = true;
         animation.disabled = false;
         fontsize.disabled = false;
-    }
+    };
 
     animation.onchange = function () {
         textarea.value = ANIMATIONS[animation.value];
-    }
+    };
 
     fontsize.onchange = function () {
         textarea.style.fontSize = fontsize.value;
-    }
+    };
 
     turbo.onchange = function () {
+        if (start.disabled) {
+            getGpeed();
+
+            clearInterval(t);
+            t = timer();
+        }
+    };
+
+    function getSpeed() {
         if (turbo.checked) {
             speed = 50;
         } else {
             speed = 250;
         }
-
-        clearInterval(t);
-        t = timer();
     }
 
     function timer() {
