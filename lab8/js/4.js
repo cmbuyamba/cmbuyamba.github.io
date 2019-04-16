@@ -1,5 +1,4 @@
 const Person1 = {
-
     name: 'Mbuyamba',
     age: 39,
     greeting: function () {
